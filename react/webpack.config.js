@@ -90,7 +90,7 @@ module.exports = {
     }),
   ],
   devServer: {
-    open: ['/slack-app-clone-web/react'],
+    open: ['/slack-app-clone-web/react'], // dev
     historyApiFallback: true,
     static: {
       directory: "./src/static",
