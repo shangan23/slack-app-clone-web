@@ -1,5 +1,5 @@
 
-name: Deploy In Clone in Github
+name: Deploy Slack Clone in Github
 
 # Controls when the action will run. 
 on:
